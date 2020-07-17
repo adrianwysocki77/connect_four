@@ -9,7 +9,7 @@ http://connectfour2.herokuapp.com/register
 
 Whole logic game was build with Java Script and jQuery.
 
-![img]("./images_readme/1.png")
+![img](./images_readme/1.png)
 
 ---
 
@@ -17,14 +17,12 @@ Whole logic game was build with Java Script and jQuery.
 
 Game has a counter for both players. You can reset the game. Result of the game is stored in local storage so even after closing web window and opening it again you will see result.
 
-![img]("./images_readme/2.png")
+![img](./images_readme/2.png")
 
 ---
 
 ### Accessibility
 
 You can play the game just using left/right arrow to move pointer and enter to admit chosen whole.
-
-![img]("./images_readme/3.png")
 
 ---
