@@ -24,5 +24,3 @@ Game has a counter for both players. You can reset the game. Result of the game 
 ### Accessibility
 
 You can play the game just using left/right arrow to move pointer and enter to admit chosen whole.
-
----
