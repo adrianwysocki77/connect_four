@@ -1,6 +1,6 @@
 ### Connect Four
 
-Game for 2 players based on board game. It was second project I've ever built and It was really exciting!
+Game for 2 players based on the board game. It was second project I've ever built and It was really exciting!
 http://connectfour2.herokuapp.com/register
 
 ---
