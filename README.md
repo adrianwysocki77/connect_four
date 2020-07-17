@@ -17,7 +17,7 @@ Whole logic game was build with Java Script and jQuery.
 
 Game has a counter for both players. You can reset the game. Result of the game is stored in local storage so even after closing web window and opening it again you will see result.
 
-![img](./images_readme/2.png")
+![img](./images_readme/2.png)
 
 ---
 
