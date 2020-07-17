@@ -1,59 +1,30 @@
-### Petition
+### Connect Four
 
-Sign petition to save the trees!
-
-http://finalpetition.herokuapp.com/register
-
----
-
-### Frontend
-
-To build a frontend I used pure HTML/CSS.
+Game for 2 players based on board game. It was second project I've ever built and It was really exciting!
+http://connectfour2.herokuapp.com/register
 
 ---
 
-### Backend
+### Logic
 
-Backend is build with Node.js, Express.js, and PostgreSQL. Data base is created to store user informations necessary for authentication.
-Everything is protected from CSURF attacks and SQL injections.
-For rendering different HTML templates is used Handlebars.js
+Whole logic game was build with Java Script and jQuery.
+
+![img]("./images_readme/1.png")
+
+---
 
 ### Features
 
-To sing the petition you need to register creating your account.
+Game has a counter for both players. You can reset the game. Result of the game is stored in local storage so even after closing web window and opening it again you will see result.
 
-![img](./images_readme/1.png)
-
----
-
-If you already have an account you can log in.
-
-![img](./images_readme/2.png)
+![img]("./images_readme/2.png")
 
 ---
 
-You sing the petition using virtual sign in canvas which is stored in data base as a string.
+### Accessibility
 
-![img](./images_readme/3.png)
+You can play the game just using left/right arrow to move pointer and enter to admit chosen whole.
 
----
-
-There is possibility to see all signers.
-
-![img](./images_readme/4.png)
-
----
-
-If it will be necessary you can delete your signature or change your profile informations.
-
-![img](./images_readme/5.png)
-
----
-
-Page is fully responsive.
-
-![img](./images_readme/6.png)
-
-![img](./images_readme/7.png)
+![img]("./images_readme/3.png")
 
 ---
