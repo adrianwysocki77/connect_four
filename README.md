@@ -15,7 +15,7 @@ Whole logic game was build with Java Script and jQuery.
 
 ### Features
 
-Game has a counter for both players. You can reset the game. Result of the game is stored in local storage so even after closing web window and opening it again you will see result.
+Game has a counter for both players. You can reset the game. Result of the game is stored in local storage so even after closing web window and opening it again you will see result. Alway in the end of the battle you can see cheesy animation where game board is destroyed.
 
 ![img](./images_readme/2.png)
 
